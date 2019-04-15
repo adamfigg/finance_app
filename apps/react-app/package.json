@@ -1,0 +1,41 @@
+{
+  "name": "react-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material/select": "^1.1.1",
+    "axios": "^0.18.0",
+    "jss": "^9.8.7",
+    "jss-plugin-template": "^10.0.0-alpha.7",
+    "material-table": "^1.32.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-number-format": "^4.0.7",
+    "react-redux": "^7.0.2",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "2.1.8",
+    "react-table": "^6.9.2",
+    "redux": "^4.0.1",
+    "redux-simple-router": "^2.0.4",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
